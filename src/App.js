@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import Spinner from './components/Spinner';
@@ -32,7 +33,12 @@ function App() {
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		fetchData(
+
+		// Сервер не отвечает
+		// fetchData(JSON.stringify({ car_coast, initail_payment, initail_payment_percent, lease_term, total_sum, monthly_payment_from }))
+
+		// Поэтому выведу так передаваемый в запросе объект
+		alert(
 			JSON.stringify({
 				car_coast,
 				initail_payment,
