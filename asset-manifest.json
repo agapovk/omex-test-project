@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/omex-test-project/static/css/main.c23800a0.css",
-    "main.js": "/omex-test-project/static/js/main.9270337f.js",
+    "main.js": "/omex-test-project/static/js/main.91045ff6.js",
     "static/media/Nekst-Black.woff": "/omex-test-project/static/media/Nekst-Black.f0e2921efcf1112b1749.woff",
     "static/media/Gilroy-Medium.woff": "/omex-test-project/static/media/Gilroy-Medium.5329bc502cdc219ad294.woff",
     "index.html": "/omex-test-project/index.html",
     "main.c23800a0.css.map": "/omex-test-project/static/css/main.c23800a0.css.map",
-    "main.9270337f.js.map": "/omex-test-project/static/js/main.9270337f.js.map"
+    "main.91045ff6.js.map": "/omex-test-project/static/js/main.91045ff6.js.map"
   },
   "entrypoints": [
     "static/css/main.c23800a0.css",
-    "static/js/main.9270337f.js"
+    "static/js/main.91045ff6.js"
   ]
 }
